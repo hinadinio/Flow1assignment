@@ -2,7 +2,7 @@
 // here i connect to the database that I have created
 $server = 'nadinesusannaronnby.dk.mysql';
 $username = 'nadinesusannaronnby_dk_nadinio';
-$password = 'nadinio';
+$password = '';//i think it should not be shown
 $database = 'nadinesusannaronnby_dk_nadinio';
 
 
